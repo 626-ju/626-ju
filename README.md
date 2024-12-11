@@ -2,7 +2,7 @@
 
 <!--
 **626-ju/626-ju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 <h3 align="center">
   Front-End & Back-End 풀스택 강의 훈련교사 엠씨쌤입니다.
 </h3>
+
+
 <br /><br />
 <p>
 안녕하세요, 저는 직업훈련교사[김명철]입니다. 열정적인 풀 스택 웹 개발자이자 직업훈련교사입니다. 소프트웨어에 대한 나의 열정은 아이디어를 꿈꾸고 우아한 인터페이스로 실현하는 것입니다. 예시를 통한  강의 전달력뿐만 아니라. 수강생들과의 인간적인 교류를 중요시 여기는 직업관을 가지고 있습니다.
