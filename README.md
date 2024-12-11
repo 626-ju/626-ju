@@ -1,8 +1,5 @@
-## Hi there 👋
+## 타이틀 👋
 
-<!--
-**626-ju/626-ju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,7 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<h1 align="center">Hi, I'm MCSSAM</h1>
+<h1 align="center">Hi, I'm MCSSAM  </h1>
 <h3 align="center">
   Front-End & Back-End 풀스택 강의 훈련교사 엠씨쌤입니다.
 </h3>
