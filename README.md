@@ -65,6 +65,7 @@
 
 ### ♾️ Connect with me
 <p>
+  
 [<img align="left" alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png"/>](http://jojujo.dothome.co.kr/resume_portfol)
   <br>
   
@@ -72,6 +73,7 @@
 </p>
 <br>
 <p>
+  
 [<img align="left" alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/?size=100&id=102562&format=png&color=000000"/>](https://626ju.modoo.at)
   <Br>
   
