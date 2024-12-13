@@ -57,7 +57,7 @@
 ### 📫  mail
 <p>06261122@naver.com</p>
 <br>
-<br>
+
 
 ### ♾️ Connect with me
 
@@ -69,4 +69,4 @@
 <br><br><br><br><br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=febseo&show_icons=true&locale=en" alt="febseo" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=626-ju&show_icons=true&locale=en" alt="626" />
