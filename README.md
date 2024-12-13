@@ -72,8 +72,7 @@
 
 <br>
 <hr>
-<br><br><br><br><br><br>
-
+<br><br><br>
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{626-ju}"/>
@@ -81,6 +80,7 @@
 
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=626-ju&show_icons=true&locale=en" alt="626"/>
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=626-ju&layout=compact)
 </p>
 
