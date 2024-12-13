@@ -82,7 +82,7 @@
 
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/line/{626-ju}?pet-id=1&contribution-view=false" width="1000" height="200"/>
+  <img src="https://render.gitanimals.org/lines/{626-ju}?pet-id=1&contribution-view=false" width="1000" height="200"/>
 </a>
 
 <p>
