@@ -1,78 +1,16 @@
-## 안녕하세요 **개발자 김성주입니다. 👋
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<h1 align="center">Hi, I'm SeongJu   </h1>
-<h3 align="center">
-  Front-End & Back-End 풀스택 개발자를 희망하는 김성주입니다.
-</h3>
+## 안녕하세요 풀스택 개발자 김성주입니다. 👋
 
 
-<br /><br />
-<p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ca848a,100:ffbe98&height=250&section=header&text=Welcome!😊&desc=This%20is%20Git&fontSize=60&animation=fadeIn&fontColor=fff)
+
+<br>
+
+### 🙋 I'm Kim SeongJu, Fullstack developer. 
+
 안녕하세요, 신입 개발자 [김성주]입니다. 연극배우 출신으로 검은 무대 위에서 펼치던 창의력과 책임감을 <br>
 이제는 코드 위에서 발휘하고 싶습니다.
 
 
-또한, 원리위주의 수업을 지향하며 이를 통해 응용력을 배가시키는 전달자입니다. 구글링을 통한 오픈 소스 커뮤니티에서 많은 것을 배웠고 오픈 소스를 통해 어떻게 협업과 지식 공유가 이루어졌는지를 좋아합니다.
-</p>
-  
-📞) 010-7753-2415
-<br>
-📫) 06261122@naver.com
-<br>
-
-**My tech stack :**  
-- Backend web development (Java, Servlet/JSP)
-- Frontend web development (HTML, CSS, javaScript, jQuery, React.js)
-- Oracle, MySQL
-- Portfolio
-<br>
-
-
-**languages and tools :**
-<!-- 뱃지 사용방법 -->
-  <!-- 뱃지 아이콘 사이트 -->
-  <!--   <img src="https://img.shields.io/badge/{내용}-{배경 색깔}?style={스타일}&logo={로고이름}&logoColor={로고 색깔}"/> -->
-  
-
-<p><img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=4479A1"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/JAVA-8F0000?style=flat&logo&logoColor=4479A1"/></p>
-
-<p><img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=Notion&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/>&nbsp;&nbsp;</p>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code> -->
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<br>
-<br>
-
-**Current Lecture :** 
-
-- 2018.07.27 ~ 이젠 컴퓨터 아카데미 풀스택 강의
-<br /><br />
-
-
-<br />
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ca848a,100:ffbe98&height=250&section=header&text=Welcome!😊&desc=This%20is%20Git&fontSize=60&animation=fadeIn&fontColor=fff)
-
-
-<h1>Hi 👋, I'm YoonSeoyeon</h1>
-<br>
-
-### 🙋 I'm SeongJu, Fullstack developer. 
 🔅 다양한 기술 습득으로 끊임없는 성장을 꿈꾸는 개발자 김성주입니다. <br>
 🔅 호기심과 학습의지를 토대로 다양한 기술을 습득하며 지속적인 성장을 추구합니다.  <br>
 🔅 새로운 기술이나 도구에 대한 탐구 정신을 가지고 있어, 향상된 개발 기술을 습득하고 적용하는 데 주력하고 있습니다. <br>
@@ -111,7 +49,10 @@ Here are some ideas to get you started:
 
 ### 🎓 Education
 <p>xx대학교 xx과 심화전공  |  2020.03 ~ </p>
-
+📞) 010-7753-2415
+<br>
+📫) 06261122@naver.com
+<br>
 
     
 <br>
