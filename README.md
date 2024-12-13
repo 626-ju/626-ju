@@ -88,7 +88,7 @@
 <p>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=626-ju&layout=normal&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=626-ju&layout=normal&theme=dark&card_width=400)
 </p>
 
 
