@@ -79,7 +79,7 @@
 </a>
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=626-ju&show_icons=true&locale=en" alt="626"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=626-ju&show_icons=true&locale=en" alt="626" align='left'/>
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=626-ju&layout=compact)
 </p>
