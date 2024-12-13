@@ -65,8 +65,7 @@
 [<img align="left" alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/?size=100&id=102562&format=png&color=000000"/>](https://626ju.modoo.at)
 
 
-
 <br><br><br><br><br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=626-ju&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=626-ju&show_icons=true&locale=en" alt="626" />
