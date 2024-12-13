@@ -6,7 +6,7 @@
 <br>
 
 
-![header](https://capsule-render.vercel.app/api?type=Venom&color=Brown&height=300&section=header&text=Kim&nbsp;SeongJu&fontColor=grey&fontAlign=32&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Venom&color=Brown&height=300&section=header&text=Kim&nbsp;SeongJu&fontColor=grey&fontAlign=32&fontSize=90&animation=fadeIn)
 
 
 ### 🙋 I'm Kim SeongJu, Fullstack developer. 
