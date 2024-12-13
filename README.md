@@ -49,9 +49,11 @@
 ### 🎓 Education
 <p> 호서대학교 연극과 |  2019.03 ~ 2023.02 </p>
 <br>
+
 ### 📞 tel 
 <p>010-7753-2415</p>
 <br>
+
 ### 📫  mail
 <p>06261122@naver.com</p>
 <br>
@@ -59,10 +61,11 @@
 
 ### ♾️ Connect with me
 
-[<img align="left" alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" />][website]
+[<img align="left" alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" />][resume]
+[<img align="left" alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/?size=100&id=102562&format=png&color=000000" />][website]
 
-
-[website]: http://mo.dothome.co.kr
+[resume] :http://jojujo.dothome.co.kr/resume_portfol/
+[website]:https://626ju.modoo.at/
 
 
 <br><br><br><br><br><br>
