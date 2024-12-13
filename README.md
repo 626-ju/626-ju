@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi, I'm SeongJu   </h1>
 <h3 align="center">
-  Front-End & Back-End 풀스택 강의 훈련교사 엠씨쌤입니다.
+  Front-End & Back-End 풀스택 개발자를 희망하는 김성주입니다.
 </h3>
 
 
