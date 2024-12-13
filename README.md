@@ -70,7 +70,7 @@
 <br>
 [<button type="button">resume</button>](http://jojujo.dothome.co.kr/resume_portfol)
 </p>
-<br>
+
 <p>
   
 [<img alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/?size=100&id=102562&format=png&color=000000"/>](https://626ju.modoo.at)
