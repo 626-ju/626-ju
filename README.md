@@ -12,7 +12,7 @@
 ### 🙋 I'm Kim SeongJu, Fullstack developer. 
 
 안녕하세요, 신입 개발자 <span fontWeight="700px">[김성주]</span>입니다. 연극배우 출신으로 검은 무대 위에서 펼치던 창의력과 책임감을 <br>
-이제는 코드 위에서 발휘하고 싶습니다.
+이제는 코드 위에서 발휘하고 있습니다.
 
 
 🔅 다양한 기술 습득으로 끊임없는 성장을 꿈꾸는 개발자 김성주입니다. <br>
@@ -65,22 +65,9 @@
 
 ### ♾️ Connect with me
 
-<div display="inline-box">
-
-  
 [<img  alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png"/>](http://jojujo.dothome.co.kr/resume_portfol)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/?size=100&id=102562&format=png&color=000000"/>](https://626ju.modoo.at)
-
 [<button type="button">resume</button>](http://jojujo.dothome.co.kr/resume_portfol) &nbsp;&nbsp;&nbsp; [<button type="button">website</button> ](https://626ju.modoo.at)
 
-
-
-
-
-  
-
-
-  
-</div>
 
 
 
