@@ -10,7 +10,7 @@
 
 ### 🙋 I'm Kim SeongJu, Fullstack developer. 
 
-안녕하세요, 신입 개발자 <span style="font-weight=600">[김성주]</span> 입니다. 연극배우 출신으로 검은 무대 위에서 펼치던 창의력과 책임감을 <br>
+안녕하세요, 신입 개발자 <span style="font-weight:600">[김성주]</span> 입니다. 연극배우 출신으로 검은 무대 위에서 펼치던 창의력과 책임감을 <br>
 이제는 코드 위에서 발휘하고 싶습니다.
 
 
