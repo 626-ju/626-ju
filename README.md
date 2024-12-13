@@ -20,7 +20,7 @@
 🔅 소심하나 적극적이고, 내성적이지만 활발합니다 
 
 <br>
----------------------------------------------
+<hr>
 <br>
 
 ### 🛠 Languages and Tools
@@ -71,7 +71,7 @@
 
 
 <br>
-====================================================================================
+<hr>
 <br><br><br><br><br><br>
 
 
@@ -79,6 +79,8 @@
   <img src="https://render.gitanimals.org/farms/{626-ju}"/>
 </a>
 
+<p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=626-ju&show_icons=true&locale=en" alt="626"/>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=626-ju&layout=compact)
+</p>
+
