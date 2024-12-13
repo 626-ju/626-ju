@@ -82,9 +82,12 @@
 
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{626-ju}?pet-id=1&contribution-view=false" width="1000" height="200"/>
+<img
+  src="https://render.gitanimals.org/farms/626-ju"
+  width="1000"
+  height="500"
+/>
 </a>
-
 <p>
 <img width="400px" height="200px" paddingRight="0px"  align="left" src="https://github-readme-stats.vercel.app/api?username=626-ju&show_icons=true&locale=en" alt="626" />
 <img marginTop="0px" marginLeft="0px" width="226px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=626-ju&layout=normal&theme=dark&card_width=200" alt="626" />
