@@ -109,6 +109,11 @@
 <img marginTop="0px" marginLeft="0px" width="226px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=626-ju&layout=normal&theme=dark&card_width=200" alt="626" />
 </p>
 
+<br>
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=626-ju)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <br>
 <br>
