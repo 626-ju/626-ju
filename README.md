@@ -88,7 +88,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=626-ju&show_icons=true&locale=en" alt="626" />
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=626-ju&layout=donut-vertical&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=626-ju&layout=pie&theme=dark)
 </p>
 
 
