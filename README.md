@@ -70,7 +70,7 @@
 <br>
 <br>
 [resume](http://jojujo.dothome.co.kr/resume_portfol)
-&nbsp;
+&nbsp;&nbsp;
 [website](https://626ju.modoo.at)
 
 
@@ -86,7 +86,9 @@
 
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=626-ju&show_icons=true&locale=en" alt="626" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=626-ju&layout=vertical&theme=dark" alt="626" />
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=626-ju&layout=vertical&theme=dark)
 
 </p>
 
