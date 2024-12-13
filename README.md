@@ -81,7 +81,6 @@
 
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=626-ju&show_icons=true&locale=en" alt="626" />
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=626-ju)](https://github.com/anuraghazra/github-readme-stats)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=626-ju&layout=right&theme=dark)
 </p>
 
