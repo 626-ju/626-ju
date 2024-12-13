@@ -94,7 +94,5 @@ for(let i=0;i<getP.lenght;i++){
    this.style.color="red";
 });
 }
-
-
 ```
 
