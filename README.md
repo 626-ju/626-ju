@@ -20,6 +20,8 @@
 🔅 소심하나 적극적이고, 내성적이지만 활발합니다 
 
 <br>
+---------------------------------------------
+<br>
 
 ### 🛠 Languages and Tools
 <p>
@@ -63,10 +65,13 @@
 
 ### ♾️ Connect with me
 
-[<img align="left" alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png"/>](http://jojujo.dothome.co.kr/resume_portfol)
-[<img align="left" alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/?size=100&id=102562&format=png&color=000000"/>](https://626ju.modoo.at)
+[<img align="left" alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png"/>](http://jojujo.dothome.co.kr/resume_portfol)[resume]
+[<img align="left" alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/?size=100&id=102562&format=png&color=000000"/>](https://626ju.modoo.at)[website]
 
 
+
+<br>
+---------------------------------------------
 <br><br><br><br><br><br>
 
 
@@ -74,5 +79,5 @@
   <img src="https://render.gitanimals.org/farms/{626-ju}"/>
 </a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=626-ju&layout=compact)
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=626-ju&show_icons=true&locale=en" alt="626" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=626-ju&layout=compact)
