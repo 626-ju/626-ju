@@ -17,7 +17,6 @@
 🔅 다양한 기술 습득으로 끊임없는 성장을 꿈꾸는 개발자 김성주입니다. <br>
 🔅 호기심과 학습의지를 토대로 다양한 기술을 습득하며 지속적인 성장을 추구합니다.  <br>
 🔅 새로운 기술이나 도구에 대한 탐구 정신을 가지고 있어, 향상된 개발 기술을 습득하고 적용하는 데 주력하고 있습니다. <br>
-<!--🔅 이를 통해 학습한 다양한 지식을 노션에 체계적으로 정리함으로써, 이후 프로젝트에 적용 가능하도록 하고 있습니다. <br>-->
 🔅 소심하나 적극적이고, 내성적이지만 활발합니다 
 
 <br>
@@ -72,17 +71,16 @@
 
 
 <br>
-
+<br>
 ---
-
-<br><br><br>
+<br><br>
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{626-ju}"/>
 </a>
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=626-ju&show_icons=true&locale=en" alt="626" align='left'/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=626-ju&show_icons=true&locale=en" alt="626" />
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=626-ju&layout=compact)
 </p>
