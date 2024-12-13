@@ -6,7 +6,7 @@
 <br>
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=_hexcode:FEF4E0&height=300&section=header&text=Kim&nbsp;SeongJu&fontColor=black&fontAlign=33&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=_hexcode:FEF4E0&height=300&section=header&text=Kim&nbsp;SeongJu&fontColor=b9b9b9b9&fontAlign=33&fontSize=90&animation=fadeIn)
 
 
 ### 🙋 I'm Kim SeongJu, Fullstack developer. 
@@ -46,6 +46,7 @@
 
 <br>
 
+
 ### ⛺ Experiences
 <p> 2024.05.28 - 2024.12.16 ) NCS 풀스택 자바웹개발</p>
 
@@ -64,6 +65,10 @@
 <br>
 
 ### ♾️ Connect with me
+
+
+img src="
+
 
 <div display="inline-box">
 
