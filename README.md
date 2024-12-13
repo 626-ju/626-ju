@@ -33,7 +33,6 @@
   <img src="https://img.shields.io/badge/JAVA-8F0000?style=flat-square&logo=Java&logoColor=4479A1"/>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=Notion&logoColor=black"/> 
   <img src="https://img.shields.io/badge/GitHub-gray?style=flat-square&logo=GitHub&logoColor=black"/> 
   <img src="https://img.shields.io/badge/Git-blue?style=flat-square&logo=Git&logoColor=F05032"/> 
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=#007ACC"/> 
@@ -49,13 +48,13 @@
 
 ### 🎓 Education
 <p> 호서대학교 연극과 |  2019.03 ~ 2023.02 </p>
-
-### 📞 tel ) 010-7753-2415
 <br>
-###📫  mail) 06261122@naver.com
+### 📞 tel 
+<p>010-7753-2415</p>
 <br>
-
-    
+### 📫  mail
+<p>06261122@naver.com</p>
+<br>
 <br>
 
 ### ♾️ Connect with me
