@@ -61,11 +61,12 @@
 
 ### ♾️ Connect with me
 
-[<img align="left" alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" />][resume]
-[<img align="left" alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/?size=100&id=102562&format=png&color=000000" />][website]
+[<img align="left" alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png"/>][resume]
+[<img align="left" alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/?size=100&id=102562&format=png&color=000000"/>][website]
 
-[resume] : http://jojujo.dothome.co.kr/resume_portfol/
-[website]: https://626ju.modoo.at/
+[resume] : http://jojujo.dothome.co.kr/resume_portfol "resume"
+[website]: https://626ju.modoo.at "website"
+
 
 
 <br><br><br><br><br><br>
