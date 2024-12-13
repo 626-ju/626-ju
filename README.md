@@ -87,3 +87,14 @@
 [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=626-ju&layout=right&theme=dark)
 </p>
 
+```javaScript
+const getP = document.querySelector("p");
+for(let i=0;i<getP.lenght;i++){
+  getP(i).addEventListener("mouseenter", function(){
+   this.style.color="red";
+});
+}
+
+
+```
+
