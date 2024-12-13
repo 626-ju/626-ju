@@ -67,10 +67,7 @@
 <p>
   
 [<img align="left" alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png"/>](http://jojujo.dothome.co.kr/resume_portfol)
-  
-
-
-  [<button type="button" value="resume"/>](http://jojujo.dothome.co.kr/resume_portfol)
+[<button type="button">resume</button>](http://jojujo.dothome.co.kr/resume_portfol)
 </p>
 <br>
 <p>
