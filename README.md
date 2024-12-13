@@ -1,8 +1,8 @@
 ## 안녕하세요 풀스택 개발자 김성주입니다. 👋
 
-
+<!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ca848a,100:ffbe98&height=250&section=header&text=Welcome!😊&desc=This%20is%20Git&fontSize=60&animation=fadeIn&fontColor=fff)
-
+-->
 <br>
 
 
@@ -71,7 +71,7 @@
 
 
 <br>
----------------------------------------------
+====================================================================================
 <br><br><br><br><br><br>
 
 
@@ -79,5 +79,6 @@
   <img src="https://render.gitanimals.org/farms/{626-ju}"/>
 </a>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=626-ju&show_icons=true&locale=en" alt="626" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=626-ju&show_icons=true&locale=en" alt="626"/>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=626-ju&layout=compact)
