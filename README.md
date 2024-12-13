@@ -111,6 +111,8 @@
 
 <br>
 
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=626-ju"/>
+
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=626-ju)](https://github.com/anuraghazra/github-readme-stats)
 
 
