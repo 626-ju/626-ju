@@ -10,7 +10,7 @@
 
 ### 🙋 I'm Kim SeongJu, Fullstack developer. 
 
-안녕하세요, 신입 개발자 [김성주]입니다. 연극배우 출신으로 검은 무대 위에서 펼치던 창의력과 책임감을 <br>
+안녕하세요, 신입 개발자 `[김성주]`입니다. 연극배우 출신으로 검은 무대 위에서 펼치던 창의력과 책임감을 <br>
 이제는 코드 위에서 발휘하고 싶습니다.
 
 
@@ -87,7 +87,7 @@
 
 <p>
 <img width="400px" height="200px" paddingRight="0px"  align="left" src="https://github-readme-stats.vercel.app/api?username=626-ju&show_icons=true&locale=en" alt="626" />
-<img marginTop="0px" marginLeft="0px" width="224px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=626-ju&layout=normal&theme=dark&card_width=200" alt="626" />
+<img marginTop="0px" marginLeft="0px" width="226px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=626-ju&layout=normal&theme=dark&card_width=200" alt="626" />
 </p>
 
 
