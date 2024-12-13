@@ -65,7 +65,7 @@
 
 ### ♾️ Connect with me
 
-<div display="flex">
+<div display="inline-box">
 
 <P>
   
