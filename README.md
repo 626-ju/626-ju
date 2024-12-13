@@ -68,14 +68,14 @@
   
 [<img align="left" alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png"/>](http://jojujo.dothome.co.kr/resume_portfol)
 
-[<button paddingTop="24px" type="button">resume</button>](http://jojujo.dothome.co.kr/resume_portfol)
+[<button display="inline-block" paddingTop="24px" type="button">resume</button>](http://jojujo.dothome.co.kr/resume_portfol)
 </p>
 <br>
 <p>
   
 [<img align="left" alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/?size=100&id=102562&format=png&color=000000"/>](https://626ju.modoo.at)
 
-[<button paddingTop="24px" type="button">website</button> ](https://626ju.modoo.at)
+[<button display="inline-block" paddingTop="24px" type="button">website</button> ](https://626ju.modoo.at)
   
 </p>
 
