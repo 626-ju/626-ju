@@ -47,14 +47,10 @@
 <br>
 
 
-### ⛺ Experiences                                                               ### ♾️ Connect with me
+### ⛺ Experiences                                                         
 <p> 2024.05.28 - 2024.12.16 ) NCS 풀스택 자바웹개발</p>
-                                                                                              [<img  alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png"/>](http://jojujo.dothome.co.kr/resume_portfol)
-                                                                                              <br>
-                                                                                              [<button type="button">resume</button>](http://jojujo.dothome.co.kr/resume_portfol)
-
-
-
+                                                                                            
+                                                                                      
 ### 🎓 Education
 <p> 호서대학교 연극과 |  2019.03 ~ 2023.02 </p>
 
@@ -62,9 +58,7 @@
 ### 📞 tel 
 <p>010-7753-2415</p>
 
-                                                                                                    [<img alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/?size=100&id=102562&format=png&color=000000"/>](https://626ju.modoo.at)
-                                                                                                    <br>
-                                                                                                    [<button type="button">website</button> ](https://626ju.modoo.at)
+                                                                                 
 ### 📫  mail
 <p>06261122@naver.com</p>
 <br>
@@ -73,22 +67,20 @@
 
 <div display="inline-box">
 
-<P>
   
-[<img  alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png"/>](http://jojujo.dothome.co.kr/resume_portfol)
+[<img  alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png"/>](http://jojujo.dothome.co.kr/resume_portfol)   &nbsp;&nbsp;&nbsp;[<img alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/?size=100&id=102562&format=png&color=000000"/>](https://626ju.modoo.at)
+
 <br>
-[<button type="button">resume</button>](http://jojujo.dothome.co.kr/resume_portfol)
 
-</P>
+[<button type="button">resume</button>](http://jojujo.dothome.co.kr/resume_portfol) &nbsp;&nbsp;&nbsp; [<button type="button">website</button> ](https://626ju.modoo.at)
 
 
-<P>
+
+
+
   
-[<img alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/?size=100&id=102562&format=png&color=000000"/>](https://626ju.modoo.at)
-<br>
-[<button type="button">website</button> ](https://626ju.modoo.at)
-  
-</P>
+
+
   
 </div>
 
