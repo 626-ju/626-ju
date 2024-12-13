@@ -87,7 +87,7 @@
 
 <p>
 <img width="400px" height="200px" paddingRight="0px"  align="left" src="https://github-readme-stats.vercel.app/api?username=626-ju&show_icons=true&locale=en" alt="626" />
-<img marginTop="0px" marginLeft="0px" width="200px" height="180px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=626-ju&layout=normal&theme=gradient&card_width=200" alt="626" />
+<img marginTop="0px" marginLeft="0px" width="200px" height="190px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=626-ju&layout=normal&theme=gradient&card_width=200" alt="626" />
 </p>
 
 
