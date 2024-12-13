@@ -5,6 +5,11 @@
 
 <br>
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{626-ju}"/>
+</a>
+
+
 ### 🙋 I'm Kim SeongJu, Fullstack developer. 
 
 안녕하세요, 신입 개발자 [김성주]입니다. 연극배우 출신으로 검은 무대 위에서 펼치던 창의력과 책임감을 <br>
